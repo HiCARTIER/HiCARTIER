@@ -19,5 +19,14 @@
               \ /\  \_________________________\                                     I will fear no evil; for
  all of your   \  \ / ______________________  /                                     thou art with me; thy  
                 \  / ______________________  /                                      rod and thy staff they
-  Endeavors.     \/_________________________/                                       comfort me.
-                                              Jesus is King
+  Endeavors.     \/_________________________/                                       comfort me. Thou 
+                                              Jesus is King                         prepares a table before
+                                                                                    in the presence of
+                                                                                    mine enemies; thou annoi-
+                                                                                    ntest my head with oil;
+                                                                                    my cup runneth over. Surely
+                                                                                    goodness and mercy shall
+                                                                                    follow me all the days of
+                                                                                    my life; and I will
+                                                                                    dwell in the house of
+                                                                                    the LORD forever.
