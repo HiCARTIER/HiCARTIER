@@ -1,9 +1,22 @@
-```
-    |\__/,|   (`\  .-------------------------------------------.
-  _.|o o  |_   ) ) | USER: Carter                              |
--(((---(((-------- | OS:   macOS                               |
-                   | IDE:  VSCode / Cursor / Claude Code       |
-                   | LANG: Python, GDScript, HTML, CSS, JS     |
-                   | DEVS: Godot, Aseprite, Pixelmator Pro     |
-                   | AUDIO: Ableton, Logic Pro                 |
-                   '-------------------------------------------'
+    __________________________
+   /\                         \
+  /  \            ____         \
+ / \/ \          /\   \         \   .-------------------------------------------.
+ \ /\  \         \ \   \         \  | USER: Carter                              |
+  \  \  \     ____\_\   \______   \ | OS:   macOS                               |
+   \   /\\   /\                \   \| IDE:  VSCode / Cursor / Claude Code       |
+    \ /\/ \  \ \_______    _____\   | LANG: Python, GDScript, HTML, CSS, JS     |
+     \\/ / \  \/______/\   \____/   | DEVS: Godot, Aseprite, Pixelmator Pro     |
+      \ / /\\         \ \   \       | AUDIO: Ableton, Logic Pro                 |
+       \ /\/ \         \ \   \      '-------------------------------------------'
+        \\/ / \         \ \   \         \
+   May   \ /   \         \ \   \         \
+          \\  /\\         \ \   \         \
+ God Bless \ /\  \         \ \___\         \
+            \\    \         \/___/          \
+   you in    \  \/ \                         \
+              \ /\  \_________________________\
+  all  your    \  \ / ______________________  /
+                \  / ______________________  /
+ Endeavors!!!    \/_________________________/
+                                              LAW
