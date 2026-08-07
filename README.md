@@ -14,10 +14,10 @@
     May  \ /   \         \ \   \         \                                          He leadeth me in paths
           \\  /\\         \ \   \         \                                         of righteousness for
  God Bless \ /\  \         \ \___\         \                                        His name's sake.
-            \\    \         \/___/          \
-   you in    \  \/ \                         \
-              \ /\  \_________________________\
- all of your   \  \ / ______________________  /
-                \  / ______________________  /
-  Endeavors.     \/_________________________/
+            \\    \         \/___/          \                                       Yea, though I walk thru
+   you in    \  \/ \                         \                                      the shadow of death,
+              \ /\  \_________________________\                                     I will fear no evil; for
+ all of your   \  \ / ______________________  /                                     thou art with me; thy  
+                \  / ______________________  /                                      rod and thy staff they
+  Endeavors.     \/_________________________/                                       comfort me.
                                               Jesus is King
