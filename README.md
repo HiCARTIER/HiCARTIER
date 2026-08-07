@@ -2,13 +2,13 @@
     __________________________
    /\                         \
   /  \            ____         \
- / \/ \          /\   \         \   .-------------------------------------------.
- \ /\  \         \ \   \         \  | USER: Carter                              |
-  \  \  \     ____\_\   \______   \ | OS:   macOS                               |
-   \   /\\   /\                \   \| IDE:  VSCode / Cursor / Claude Code       |
-    \ /\/ \  \ \_______    _____\   | LANG: Python, GDScript, HTML, CSS, JS     |
-     \\/ / \  \/______/\   \____/   | DEVS: Godot, Aseprite, Pixelmator Pro     |
-      \ / /\\         \ \   \       | AUDIO: Ableton, Logic Pro                 |
+ / \/ \          /\   \         \   
+ \ /\  \         \ \   \         \  .-------------------------------------------.
+  \  \  \     ____\_\   \______   \ | AUDIO!     Ableton, FL Studio             |
+   \   /\\   /\                \   \| CAR!       Carter, HiCAR, HiCARTIER       |
+    \ /\/ \  \ \_______    _____\   | PHOTO!     Pixelmator / Aseprite          |
+     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, HTML       |
+      \ / /\\         \ \   \       | VIDEOS!    Final Cut Pro                  |
        \ /\/ \         \ \   \      '-------------------------------------------'
         \\/ / \         \ \   \         \
    May   \ /   \         \ \   \         \
