@@ -8,7 +8,7 @@
    \   /\\   /\                \   \| CAR!       Carter, HiCAR, HiCARTIER       |
     \ /\/ \  \ \_______    _____\   | PHOTO!     Pixelmator / Aseprite          |
      \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, HTML       |
-      \ / /\\         \ \   \       | VIDEO!    Final Cut Pro                   |
+      \ / /\\         \ \   \       | VIDEO!     Final Cut Pro                  |
        \ /\/ \         \ \   \      '-------------------------------------------'
         \\/ / \         \ \   \         \
    May   \ /   \         \ \   \         \
