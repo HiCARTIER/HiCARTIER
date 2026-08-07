@@ -5,9 +5,9 @@
  / \/ \          /\   \         \   
  \ /\  \         \ \   \         \  .-------------------------------------------.
   \  \  \     ____\_\   \______   \ | AUDIO!     Ableton, FL Studio             |
-   \   /\\   /\                \   \| CAR!       Carter, HiCAR, HiCARTIER       |
+   \   /\\   /\                \   \| CAR!       Game Dev                       |
     \ /\/ \  \ \_______    _____\   | PHOTO!     Pixelmator / Aseprite          |
-     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, HTML       |
+     \\/ / \  \/______/\   \____/   | TEXT!      The Bible                      |
       \ / /\\         \ \   \       | VIDEO!     Final Cut Pro                  |
        \ /\/ \         \ \   \      '-------------------------------------------'
         \\/ / \         \ \   \         \
