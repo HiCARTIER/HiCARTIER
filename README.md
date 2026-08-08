@@ -20,5 +20,5 @@
  all of your   \  \ / ______________________  /                                     thou art with me; thy  
                 \  / ______________________  /                                      rod and thy staff they
   Endeavors.     \/_________________________/                                       comfort me. 
-                                              Jesus is King                         
+                         
 
