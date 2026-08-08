@@ -7,7 +7,7 @@
   \  \  \     ____\_\   \______   \ | AUDIO!     Ableton, FL Studio             |   
    \   /\\   /\                \   \| CAR!       Carter, HiCAR, HiCARTIER       |  
     \ /\/ \  \ \_______    _____\   | PHOTO!     Pixelmator / Aseprite          |   
-     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, HTML       |   
+     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, The Bible  |   
       \ / /\\         \ \   \       | VIDEO!     Final Cut Pro                  |   
        \ /\/ \         \ \   \      '-------------------------------------------'   
         \\/ / \         \ \   \         \                                         
