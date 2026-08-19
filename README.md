@@ -7,8 +7,8 @@
   \  \  \     ____\_\   \______   \ | AUDIO!     Ableton, FL Studio             |   
    \   /\\   /\                \   \| CAR!       Carter, HiCAR, HiCARTIER       |  
     \ /\/ \  \ \_______    _____\   | PHOTO!     Pixelmator / Aseprite          |   
-     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, The Bible  |   
-      \ / /\\         \ \   \       | VIDEO!     Final Cut Pro                  |   
+     \\/ / \  \/______/\   \____/   | TEXT!      Godot, Claude Code, Bible      |   
+      \ / /\\         \ \   \       | VIDEO!     Final Cut Pro / DaVinci        |   
        \ /\/ \         \ \   \      '-------------------------------------------'   
         \\/ / \         \ \   \         \                                         
     May  \ /   \         \ \   \         \                                       
@@ -19,6 +19,6 @@
               \ /\  \_________________________\                                    
  all of your   \  \ / ______________________  /                                    
                 \  / ______________________  /                                     
-  Endeavors.     \/_________________________/                                    
+  Endeavors      \/_________________________/                                    
                          
 
